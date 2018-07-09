@@ -1,0 +1,22 @@
+{
+  "name": "testjs1",
+  "version": "1.0.0",
+  "description": "Demo test js1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vantuan1303/demobasicjavascript.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Nguyen Van Tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vantuan1303/demobasicjavascript/issues"
+  },
+  "homepage": "https://github.com/vantuan1303/demobasicjavascript#readme"
+}
