@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/vantuan1303/demobasicjavascript/issues"
   },
-  "homepage": "https://github.com/vantuan1303/demobasicjavascript#readme"
+  "homepage": "https://github.com/vantuan1303/demobasicjavascript#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
 }
