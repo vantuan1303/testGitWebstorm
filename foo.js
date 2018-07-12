@@ -11,3 +11,12 @@ module.exports = {
         foo2.sayHelloJapan();
     }
 }
+
+module.exports.Person = class {
+    constructor(name) {
+        this.name = name;
+    }
+    sayName() {
+        console.log("Hello ", this.name);
+    }
+}
